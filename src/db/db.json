@@ -61,5 +61,26 @@
     "phone": "506.239.8156",
     "email": "Buford.Johnston14@gmail.com",
     "job": "International Infrastructure Architect"
+  },
+  {
+    "id": "e277307e-0481-49e1-8bb4-451c7ba89ddc",
+    "name": "Tony Hansen",
+    "phone": "1-787-681-2199 x65838",
+    "email": "Karli26@gmail.com",
+    "job": "District Intranet Supervisor"
+  },
+  {
+    "id": "da8ddb8f-bdfc-420c-a3bd-8974ca59aa72",
+    "name": "Eugene Glover",
+    "phone": "989.747.9742 x388",
+    "email": "Alfredo66@gmail.com",
+    "job": "Customer Web Agent"
+  },
+  {
+    "id": "731ade93-28ff-4144-b93b-3612fb9f3457",
+    "name": "Genevieve Schaden",
+    "phone": "1-303-584-2815",
+    "email": "Dena85@hotmail.com",
+    "job": "Principal Group Agent"
   }
 ]

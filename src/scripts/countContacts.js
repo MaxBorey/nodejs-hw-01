@@ -1,10 +1,8 @@
 import { readContacts } from "../utils/readContacts.js";
 
-export const countContacts = async (count) => {
+export const countContacts = async () => {
     const parseData = await readContacts();
-    for (let i = 0; i < count; i++) {
-         return parseData.slice(0, count);
-    }
+    return parseData.length;
 };
 
-console.log(await countContacts(1));
+console.log(await countContacts());
